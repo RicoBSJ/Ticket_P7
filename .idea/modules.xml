@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/intellij-workspace/simplifiez-le-developpement-dapplications-java-avec-spring-master/.idea/simplifiez-le-developpement-dapplications-java-avec-spring-master.iml" filepath="$USER_HOME$/intellij-workspace/simplifiez-le-developpement-dapplications-java-avec-spring-master/.idea/simplifiez-le-developpement-dapplications-java-avec-spring-master.iml" />
+      <module fileurl="file://$USER_HOME$/intellij-workspace/simplifiez-le-developpement-dapplications-java-avec-spring-master/ticket/ticket.iml" filepath="$USER_HOME$/intellij-workspace/simplifiez-le-developpement-dapplications-java-avec-spring-master/ticket/ticket.iml" />
+      <module fileurl="file://$USER_HOME$/intellij-workspace/simplifiez-le-developpement-dapplications-java-avec-spring-master/ticket/ticket-batch/ticket-batch.iml" filepath="$USER_HOME$/intellij-workspace/simplifiez-le-developpement-dapplications-java-avec-spring-master/ticket/ticket-batch/ticket-batch.iml" />
+      <module fileurl="file://$USER_HOME$/intellij-workspace/simplifiez-le-developpement-dapplications-java-avec-spring-master/ticket/ticket-business/ticket-business.iml" filepath="$USER_HOME$/intellij-workspace/simplifiez-le-developpement-dapplications-java-avec-spring-master/ticket/ticket-business/ticket-business.iml" />
+      <module fileurl="file://$USER_HOME$/intellij-workspace/simplifiez-le-developpement-dapplications-java-avec-spring-master/ticket/ticket-consumer/ticket-consumer.iml" filepath="$USER_HOME$/intellij-workspace/simplifiez-le-developpement-dapplications-java-avec-spring-master/ticket/ticket-consumer/ticket-consumer.iml" />
+      <module fileurl="file://$USER_HOME$/intellij-workspace/simplifiez-le-developpement-dapplications-java-avec-spring-master/ticket/ticket-model/ticket-model.iml" filepath="$USER_HOME$/intellij-workspace/simplifiez-le-developpement-dapplications-java-avec-spring-master/ticket/ticket-model/ticket-model.iml" />
+      <module fileurl="file://$USER_HOME$/intellij-workspace/simplifiez-le-developpement-dapplications-java-avec-spring-master/ticket/ticket-technical/ticket-technical.iml" filepath="$USER_HOME$/intellij-workspace/simplifiez-le-developpement-dapplications-java-avec-spring-master/ticket/ticket-technical/ticket-technical.iml" />
+      <module fileurl="file://$USER_HOME$/intellij-workspace/simplifiez-le-developpement-dapplications-java-avec-spring-master/ticket/ticket-webapp/ticket-webapp.iml" filepath="$USER_HOME$/intellij-workspace/simplifiez-le-developpement-dapplications-java-avec-spring-master/ticket/ticket-webapp/ticket-webapp.iml" />
+    </modules>
+  </component>
+</project>
