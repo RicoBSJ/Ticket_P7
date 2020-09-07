@@ -26,12 +26,6 @@
           <element id="archive" name="ticket-technical-1.0-SNAPSHOT.jar">
             <element id="module-output" name="ticket-technical" />
           </element>
-          <element id="library" level="project" name="Maven: org.apache.commons:commons-collections4:4.1" />
-          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.6" />
-          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
-          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-core:2.6.2" />
-          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-api:2.6.2" />
-          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-jcl:2.6.2" />
           <element id="library" level="project" name="Maven: javax.ws.rs:javax.ws.rs-api:2.1" />
           <element id="library" level="project" name="Maven: org.glassfish.jersey.containers:jersey-container-servlet:2.26" />
           <element id="library" level="project" name="Maven: org.glassfish.jersey.containers:jersey-container-servlet-core:2.26" />
@@ -59,7 +53,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$USER_HOME$/intellij-workspace/simplifiez-le-developpement-dapplications-java-avec-spring-master/ticket/ticket-webapp/target/ticket-webapp/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/ticket/ticket-webapp/target/ticket-webapp/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="ticket-webapp/web/Web" />
     </root>
